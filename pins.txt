@@ -1,0 +1,14 @@
+ATtiny Pin 1: 5V
+ATtiny Pin 2: myPins[0]
+ATtiny Pin 3: myPins[1]
+ATtiny Pin 4: RESET pin
+ATtiny Pin 5: myPins[2]
+ATtiny Pin 6: myPins[3]
+ATtiny Pin 7: myPins[4]
+ATtiny Pin 8: myPins[5]
+ATtiny Pin 9: myPins[6]
+ATtiny Pin 10: myPins[7]
+ATtiny Pin 11: myPins[8]
+ATtiny Pin 12: myPins[9]
+ATtiny Pin 13: myPins[10]
+ATtiny Pin 14: GND

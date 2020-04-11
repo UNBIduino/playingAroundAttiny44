@@ -1,0 +1,4 @@
+1)Control from esp
+2)Control from manual switch
+3)Lock the switch
+4)Serial monitor to esp
